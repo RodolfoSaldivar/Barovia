@@ -450,7 +450,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     linkRenderData.push(linkRenderDatum)
   }
 
-  let currentTransform = new ZoomTransform(2, -300, -250)
+  let currentTransform = new ZoomTransform(2, -(width / 2), -(height / 2))
   stage.scale.set(currentTransform.k, currentTransform.k)
   stage.position.set(currentTransform.x, currentTransform.y)
   if (enableDrag) {
@@ -505,15 +505,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         [0, 0],
         [width, height],
       ])
-      .scaleExtent([0.25, 4])
+      .scaleExtent([1, 4])
       .on("zoom", ({ transform }) => {
-          currentTransform = transform
-          stage.scale.set(transform.k, transform.k)
-          stage.position.set(transform.x, transform.y)
+        currentTransform = transform
+        stage.scale.set(transform.k, transform.k)
+        stage.position.set(transform.x, transform.y)
 
-          // zoom adjusts opacity of labels too
-          let scaleOpacity = 1
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
+        // zoom adjusts opacity of labels too
+        let scaleOpacity = 1
+        const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
         for (const label of labelsContainer.children) {
           if (!activeNodes.includes(label)) {
@@ -525,7 +525,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     // Apply the zoom behavior first
     const selection = select<HTMLCanvasElement, NodeData>(app.canvas)
     selection.call(zoomBehavior)
-    
+
     // Then set the initial transform
     zoomBehavior.transform(selection, currentTransform)
   }
