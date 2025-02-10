@@ -10,6 +10,7 @@ import {
   forceCollide,
   forceRadial,
   zoomIdentity,
+  ZoomTransform,
   select,
   drag,
   zoom,
@@ -164,7 +165,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   }
 
   const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
+  const height = Math.max(graph.offsetHeight, 500)
 
   // we virtualize the simulation and use pixi to actually render it
   // Calculate the radius of the container circle
@@ -382,7 +383,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       interactive: false,
       eventMode: "none",
       text: n.text,
-      alpha: 0,
+      alpha: 1,
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
@@ -393,7 +394,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     })
     label.scale.set(1 / scale)
 
-    let oldLabelOpacity = 0
+    let oldLabelOpacity = 1
     const isTagNode = nodeId.startsWith("tags/")
     const gfx = new Graphics({
       interactive: true,
@@ -450,7 +451,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     linkRenderData.push(linkRenderDatum)
   }
 
-  let currentTransform = zoomIdentity
+  let currentTransform = new ZoomTransform(2, -300, -250)
+  stage.scale.set(currentTransform.k, currentTransform.k)
+  stage.position.set(currentTransform.x, currentTransform.y)
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
@@ -498,30 +501,36 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   }
 
   if (enableZoom) {
-    select<HTMLCanvasElement, NodeData>(app.canvas).call(
-      zoom<HTMLCanvasElement, NodeData>()
-        .extent([
-          [0, 0],
-          [width, height],
-        ])
-        .scaleExtent([0.25, 4])
-        .on("zoom", ({ transform }) => {
+    const zoomBehavior = zoom<HTMLCanvasElement, NodeData>()
+      .extent([
+        [0, 0],
+        [width, height],
+      ])
+      .scaleExtent([0.25, 4])
+      .on("zoom", ({ transform }) => {
+        console.log('%c509 - transform: ', 'background-color: yellow', transform);
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
 
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
+          let scaleOpacity = 1
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
-            }
+        for (const label of labelsContainer.children) {
+          if (!activeNodes.includes(label)) {
+            label.alpha = scaleOpacity
           }
-        }),
-    )
+        }
+      })
+
+    // Apply the zoom behavior first
+    const selection = select<HTMLCanvasElement, NodeData>(app.canvas)
+    selection.call(zoomBehavior)
+    
+    // Then set the initial transform
+    zoomBehavior.transform(selection, currentTransform)
   }
 
   function animate(time: number) {
