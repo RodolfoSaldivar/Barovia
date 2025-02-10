@@ -1,0 +1,1 @@
+El mago que casi le parte la madre a [[Strahd Von Zarovich]]

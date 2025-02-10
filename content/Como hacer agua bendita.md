@@ -1,0 +1,1 @@
+Un ser de verdad creyente a su dios debe de tocar el agua y hacer una oracion

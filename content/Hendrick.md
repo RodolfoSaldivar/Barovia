@@ -1,0 +1,1 @@
+Fabricante de ataudes, convencio a [[Milo]] de robar los huesos sagrados e invito a [[Strahd Von Zarovich]] a la iglesia de [[Villaki]].

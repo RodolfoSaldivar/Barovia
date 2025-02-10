@@ -1,0 +1,1 @@
+Un cuate bien borracho que se enojo con [[Nicole]] por haber comido un pastel infantil.
