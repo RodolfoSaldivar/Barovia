@@ -164,7 +164,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   }
 
   const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 500)
+  const height = Math.max(graph.offsetHeight, 400)
 
   // we virtualize the simulation and use pixi to actually render it
   // Calculate the radius of the container circle
