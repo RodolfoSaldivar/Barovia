@@ -9,7 +9,6 @@ import {
   forceLink,
   forceCollide,
   forceRadial,
-  zoomIdentity,
   ZoomTransform,
   select,
   drag,
@@ -508,13 +507,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       ])
       .scaleExtent([0.25, 4])
       .on("zoom", ({ transform }) => {
-        console.log('%c509 - transform: ', 'background-color: yellow', transform);
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
 
           // zoom adjusts opacity of labels too
-          const scale = transform.k * opacityScale
           let scaleOpacity = 1
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
