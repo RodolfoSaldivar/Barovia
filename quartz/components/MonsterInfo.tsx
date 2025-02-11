@@ -5,6 +5,15 @@ const getModifier = (score: number): string => {
   return modifier >= 0 ? `+${modifier}` : `${modifier}`
 }
 
+const SplitDesc = ({ desc }: any) => {
+  return desc?.split("\n").map((line: string, i: number) => (
+    <span key={i}>
+      {line}
+      <div style={{ marginBottom: "20px" }} />
+    </span>
+  ))
+}
+
 export default (() => {
   const MonsterInfo: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     const monster = fileData?.monsterinfo
@@ -27,7 +36,8 @@ export default (() => {
 
         <div className="monster-stats">
           <div className="stat-line">
-            <strong>Armor Class</strong> {monster.armor_class}
+            <strong>Armor Class</strong>{" "}
+            {monster.armor_class.map((ac: any) => `${ac.value} (${ac.type})`).join(", ")}
           </div>
           <div className="stat-line">
             <strong>Hit Points</strong> {monster.hit_points}
@@ -83,10 +93,18 @@ export default (() => {
         <div className="monster-details">
           {monster.proficiencies?.length > 0 && (
             <div className="stat-line">
-              <strong>Proficiencies</strong>{" "}
-              {monster.proficiencies
-                .map((p: any) => `${p.proficiency.name} ${p.value >= 0 ? "+" : ""}${p.value}`)
-                .join(", ")}
+              {Object.entries(
+                monster.proficiencies.reduce((acc: { [key: string]: string[] }, p: any) => {
+                  const [title, type] = p.proficiency.name.split(": ")
+                  if (!acc[title]) acc[title] = []
+                  acc[title].push(`${type} ${p.value >= 0 ? "+" : ""}${p.value}`)
+                  return acc
+                }, {}),
+              ).map(([title, values]) => (
+                <>
+                  <strong>{title}</strong> {`${(values as string[]).join(", ")}`}
+                </>
+              ))}
             </div>
           )}
 
@@ -145,7 +163,7 @@ export default (() => {
             <h2>Special Abilities</h2>
             {monster.special_abilities.map((ability: any, index: number) => (
               <div key={index} className="ability-block">
-                <strong>{ability.name}.</strong> {ability.desc}
+                <strong>{ability.name}.</strong> <SplitDesc desc={ability.desc} />
                 {ability.usage && (
                   <span>
                     {" "}
@@ -163,7 +181,7 @@ export default (() => {
             <h2>Actions</h2>
             {monster.actions.map((action: any, index: number) => (
               <div key={index} className="action-block">
-                <strong>{action.name}.</strong> {action.desc}
+                <strong>{action.name}.</strong> <SplitDesc desc={action.desc} />
                 {action.attack_bonus && <span> Attack Bonus: +{action.attack_bonus}</span>}
                 {action.damage?.map((dmg: any, i: number) => (
                   <span key={i}>
@@ -181,7 +199,7 @@ export default (() => {
             <h2>Legendary Actions</h2>
             {monster.legendary_actions.map((action: any, index: number) => (
               <div key={index} className="action-block">
-                <strong>{action.name}.</strong> {action.desc}
+                <strong>{action.name}.</strong> <SplitDesc desc={action.desc} />
               </div>
             ))}
           </div>
@@ -192,7 +210,7 @@ export default (() => {
             <h2>Reactions</h2>
             {monster.reactions.map((reaction: any, index: number) => (
               <div key={index} className="action-block">
-                <strong>{reaction.name}.</strong> {reaction.desc}
+                <strong>{reaction.name}.</strong> <SplitDesc desc={reaction.desc} />
               </div>
             ))}
           </div>
