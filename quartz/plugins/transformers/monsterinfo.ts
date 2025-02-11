@@ -6,7 +6,7 @@ export const MonsterInfo: QuartzTransformerPlugin = () => {
     markdownPlugins() {
       return [
         () => {
-          return async (tree, file) => {
+          return async (_, file) => {
             const isMonster = file.data.relativePath?.includes("Bestiario")
             if (!isMonster) return
 
@@ -16,7 +16,7 @@ export const MonsterInfo: QuartzTransformerPlugin = () => {
             const creaturePattern = /creature: ([^\n]+)/
             const sourceName = text.match(sourcePattern)?.[1]
             const creatureName = text.match(creaturePattern)?.[1]
-            
+
             const monsterName = sourceName || creatureName || null
             const nameForApi = monsterName?.replace(" ", "-").toLowerCase()
 
