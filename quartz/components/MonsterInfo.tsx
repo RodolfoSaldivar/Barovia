@@ -17,7 +17,15 @@ const SplitDesc = ({ desc }: any) => {
 export default (() => {
   const MonsterInfo: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     const monster = fileData?.monsterinfo
-    if (!monster) return null
+    if (!monster)
+      return (
+        <div>
+          <strong>Possible names:</strong>
+          {fileData?.possibleNames?.map((name: string, index: number) => (
+            <pre key={index}>{name}</pre>
+          ))}
+        </div>
+      )
 
     return (
       <div className="monster-stat-block">
@@ -186,7 +194,8 @@ export default (() => {
                 {action.damage?.map((dmg: any, i: number) => (
                   <span key={i}>
                     {" "}
-                    {dmg.damage_dice} {dmg.damage_type.name} damage
+                    {dmg.damage_dice}
+                    {dmg.damage_type?.name ? ` ${dmg.damage_type.name}` : ""} damage
                   </span>
                 ))}
               </div>
