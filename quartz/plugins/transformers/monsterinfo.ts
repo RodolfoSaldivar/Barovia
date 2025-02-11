@@ -10,12 +10,12 @@ export const MonsterInfo: QuartzTransformerPlugin = () => {
             const isMonster = file.data.relativePath?.includes("Bestiario")
             if (!isMonster) return
 
+            const BASE_URL = "https://www.dnd5eapi.co"
             const text = (file.value || "") as string
 
-            const sourcePattern = /source: ([^\n]+)/
-            const creaturePattern = /creature: ([^\n]+)/
-            const sourceName = text.match(sourcePattern)?.[1]
-            const creatureName = text.match(creaturePattern)?.[1]
+            const imageName = text.match(/image: ([^\n]+)/)?.[1]
+            const sourceName = text.match(/source: ([^\n]+)/)?.[1]
+            const creatureName = text.match(/creature: ([^\n]+)/)?.[1]
 
             const monsterName = sourceName || creatureName || null
             const nameForApi = monsterName?.replace(" ", "-").toLowerCase()
@@ -23,14 +23,15 @@ export const MonsterInfo: QuartzTransformerPlugin = () => {
             if (!nameForApi) return
 
             try {
-              const response = await fetch(`https://www.dnd5eapi.co/api/monsters/${nameForApi}`)
+              const response = await fetch(`${BASE_URL}/api/monsters/${nameForApi}`)
               const data = await response.json()
-              file.data.monsterinfo = data
+              const image = data?.image ? `${BASE_URL}${data.image}` : imageName
+              file.data.monsterinfo = { ...data, image }
               return
             } catch (_) {}
 
             try {
-              const response = await fetch(`https://www.dnd5eapi.co/api/monsters`)
+              const response = await fetch(`${BASE_URL}/api/monsters`)
               const data = await response.json()
 
               const possibleNames = data?.results

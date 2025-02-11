@@ -12,6 +12,11 @@ export default (() => {
 
     return (
       <div className="monster-stat-block">
+        {monster.image && (
+          <div style={{ display: "flex", justifyContent: "center" }}>
+            <img style={{ width: "400px" }} src={`${monster.image}`} alt={monster.name} />
+          </div>
+        )}
         <div className="monster-header">
           <h1>{monster.name}</h1>
           <p className="monster-meta">
@@ -25,7 +30,7 @@ export default (() => {
             <strong>Armor Class</strong> {monster.armor_class}
           </div>
           <div className="stat-line">
-            <strong>Hit Points</strong> {monster.hit_points} ({monster.hit_dice})
+            <strong>Hit Points</strong> {monster.hit_points}
             {monster.hit_points_roll && <span> ({monster.hit_points_roll})</span>}
           </div>
           <div className="stat-line">
