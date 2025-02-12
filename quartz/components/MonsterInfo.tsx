@@ -31,14 +31,11 @@ export default (() => {
     return (
       <div className="monster-stat-block">
         {monster.image && (
-          <div style={{ display: "flex", justifyContent: "center" }}>
-            <img
-              style={{ maxWidth: "400px", maxHeight: "400px" }}
-              src={monster.image}
-              alt={monster.name}
-            />
+          <div className="image-container">
+            <img className="monster-image" src={monster.image} alt={monster.name} />
           </div>
         )}
+
         <div className="monster-header">
           <h1>{monster.name}</h1>
           <p className="monster-meta">
