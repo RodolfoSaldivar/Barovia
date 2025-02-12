@@ -25,7 +25,7 @@ export const MonsterInfo: QuartzTransformerPlugin = () => {
             try {
               const response = await fetch(`${BASE_URL}/api/monsters/${nameForApi}`)
               const data = await response.json()
-              const image = data?.image ? `${BASE_URL}${data.image}` : imageName
+              const image = imageName || (data?.image ? `${BASE_URL}${data.image}` : null)
               file.data.monsterinfo = { ...data, image }
               return
             } catch (_) {}

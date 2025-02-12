@@ -32,7 +32,11 @@ export default (() => {
       <div className="monster-stat-block">
         {monster.image && (
           <div style={{ display: "flex", justifyContent: "center" }}>
-            <img style={{ width: "400px" }} src={`${monster.image}`} alt={monster.name} />
+            <img
+              style={{ maxWidth: "400px", maxHeight: "400px" }}
+              src={monster.image}
+              alt={monster.name}
+            />
           </div>
         )}
         <div className="monster-header">
