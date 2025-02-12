@@ -17,13 +17,14 @@ const SplitDesc = ({ desc }: any) => {
 export default (() => {
   const MonsterInfo: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     const monster = fileData?.monsterinfo
+    const possibleNames = fileData?.possibleNames
+    if (!monster && !possibleNames) return
+
     if (!monster)
       return (
         <div>
           <strong>Possible names:</strong>
-          {fileData?.possibleNames?.map((name: string, index: number) => (
-            <pre key={index}>{name}</pre>
-          ))}
+          {possibleNames?.map((name: string, index: number) => <pre key={index}>{name}</pre>)}
         </div>
       )
 
