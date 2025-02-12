@@ -164,9 +164,12 @@ export default (() => {
           {monster.challenge_rating && (
             <div className="stat-line">
               <strong>Challenge</strong> {monster.challenge_rating} ({monster.xp} XP)
-              {monster.proficiency_bonus && (
-                <span>, Proficiency Bonus +{monster.proficiency_bonus}</span>
-              )}
+            </div>
+          )}
+
+          {monster.languages && (
+            <div className="stat-line">
+              <strong>Proficiency Bonus</strong> +{monster.proficiency_bonus}
             </div>
           )}
         </div>
