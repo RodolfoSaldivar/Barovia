@@ -1,6 +1,6 @@
 Nos topamos a [[David]] que nos dijo que unos druidas y 50 groots estaban ocupando [[The Wizard of Wines]].
 
-[[Komodo]] nos convencio de hacer un plan excelente de cavar 1 poso por 5 dias.
+[[El renacuajo]] nos convencio de hacer un plan excelente de cavar 1 poso por 5 dias.
 Al llegar al 3er dia, los druidas terminaron de invocar a un [[Winter Splinter]] que de una pisada destruyo medio campamento y de un estornudo la otra mitad.
 
 [[David]] se encabrono, nos insulto, y todos nos fuimos a [[Villaki]].

@@ -11,7 +11,7 @@ Segun [[Ernesto]], está tan loca como [[Svetlana]]; prefiere morir a qué le di
 
 Las masas fueron a lootear la casa del [[Alcalde Baron Vargas]] y lo mataron, salían corriendo de su casa con sus pertenencias y sus partes del cuerpo.
 
-[[Komodo]] llegó al ático de la casa del alcalde, no pudo convencer a un mago que está haciendo portales, el mago le disparó un rayo verde y lo tumbó, nadie supo de eso.
+[[El renacuajo]] llegó al ático de la casa del alcalde, no pudo convencer a un mago que está haciendo portales, el mago le disparó un rayo verde y lo tumbó, nadie supo de eso.
 
 [[Svetlana]] se une a la looteada, agarra el torso del alcalde, empieza a hablar con la multitud sobre libertad, promesas, acciones y no mentiras; mientras hace eso le da 2 mordidas al torso y la multitud se exalta.
 Levantan una bandera con el slogan "haremos las cosas bien" y el nombre de [[Svetlana]]

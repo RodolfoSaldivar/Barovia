@@ -1,0 +1,1 @@
+Esposa de [[Gundren Rockfinder]]
