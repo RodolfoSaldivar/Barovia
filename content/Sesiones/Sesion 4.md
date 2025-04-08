@@ -2,7 +2,7 @@ Camino hacia el castillo de [[Strahd Von Zarovich]].
 
 El camino era de noche y muy peligroso hasta que el carruaje se detiene enmedio de una gran neblina.
 
-[[Dongay]] se baja a ver que onda y dejamos de verlo. [[El renacuajo]] le manda un mensaje pero no respondio.
+[[Dongay]] se baja a ver que onda y dejamos de verlo. [[Gaygory]] le manda un mensaje pero no respondio.
 
 [[Dongay]] se dirigia a una orca que estaba por ahi misteriosamente sospechosa pero no habia nadie ni nada.
 

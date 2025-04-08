@@ -1,6 +1,6 @@
 Una princesa recluto a 5 personas para poder hacerse cargo de unos robos que una persona cercana a ella le reporto.
 
-Las 5 personas son [[Svetlana]], [[Daisy]], [[Dongay]], [[El renacuajo]] y [[Nicole]].
+Las 5 personas son [[Svetlana]], [[Daisy]], [[Dongay]], [[Gaygory]] y [[Nicole]].
 
 Al llegar a las coordenadas se toparon unos Vistranis que les dieron el [[Contexto Inicial]]
 
