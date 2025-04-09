@@ -25,3 +25,5 @@ Mete la mano en otra y le pican el dedo y se le inyectó algo raro.
 
 Usan la nueva llave para abrir el cuarto sombras de gray.
 Justo cuando [[Nicole]] aceptaba su homosexualidad, abre la puerta de la habitacion y ve al ser vivo que le cambiaría todo lo que sabe de sexo y amor; una gata humanoide que puede hablar, la furra que siempre sonio.
+
+[[Svetlana]] intenta domarla pero la furra le dice que huele a caca y la rechaza.
