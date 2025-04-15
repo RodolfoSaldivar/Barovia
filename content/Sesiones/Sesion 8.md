@@ -18,7 +18,7 @@ Levantan una bandera con el slogan "haremos las cosas bien" y el nombre de [[Sve
 
 [[Nicole]] encuentra a [[Kamila]] escondida en su cama, la saca y la lleva a la posada.
 
-Toda la familia del [[Alcalde Baron Vargas]] esta muerta excepto el [[Hijo del Alcade]], el cual es el mago fuerte del atico.
+Toda la familia del [[Alcalde Baron Vargas]] esta muerta excepto el [[Victor Vallakovich]], el cual es el mago fuerte del atico.
 
 [[Nicole]] platica con [[Rictavio]] el de ropas coloridas, atranco la iglesia que ahora está infestada de zombies vampiro.
 
