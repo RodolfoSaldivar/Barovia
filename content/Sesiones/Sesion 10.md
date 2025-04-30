@@ -4,7 +4,7 @@ Encontramos a [[Rictavio]] quemando gente muerta, incluído el hijo de [[Kamila]
 
 [[Rictavio]] nos confeso que en realidad es un caza vampiros; bueno, a todos menos a [[Gaygory]] porque no le da confianza. Dice que es alguien muy... curiosos; por ponerlo asi.
 Ademas nos confiesa que tmbn tiene plata en su poder y a su fiel tigre [[DeTiger]].
-Nos comenta que [[Beresk]] es una ciudad donde podria forjarse el metal.
+Nos comenta que [[Krezk]] es una ciudad donde podria forjarse el metal.
 
 Estaban quemando los cuerpos en un estacionamiento grande, era un terreno de inversion y el duenio es nada mas y nada menos que [[Gundren Rockfinder]], el cual le trajo flashbacks a [[Svetlana]]. Ella se preguntaba: "De quien seran estos recuerdos?".
 [[Gundren Rockfinder]] nos cuenta que eran 3 primos, pero que uno ya fallecio.

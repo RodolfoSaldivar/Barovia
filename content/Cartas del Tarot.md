@@ -24,7 +24,7 @@
         
     - Genera una luz tan fuerte como el sol.
         
-3. **Tercera Carta - Arma Poderosa**
+3. **Tercera Carta - Arma Poderosa**, [[Espada de fuego]]
     
     - Una **espada con el poder de mil soles**.
         
