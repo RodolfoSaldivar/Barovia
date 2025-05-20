@@ -2,11 +2,11 @@ Camino hacia el castillo de [[Strahd Von Zarovich]].
 
 El camino era de noche y muy peligroso hasta que el carruaje se detiene enmedio de una gran neblina.
 
-[[Dongay]] se baja a ver que onda y dejamos de verlo. [[Gaygory]] le manda un mensaje pero no respondio.
+[[Sergay]] se baja a ver que onda y dejamos de verlo. [[Gregory]] le manda un mensaje pero no respondio.
 
-[[Dongay]] se dirigia a una orca que estaba por ahi misteriosamente sospechosa pero no habia nadie ni nada.
+[[Sergay]] se dirigia a una orca que estaba por ahi misteriosamente sospechosa pero no habia nadie ni nada.
 
-[[Svetlana]] y [[Nicole]] se bajaron del carruaje a buscar a [[Dongay]]; en el camino vieron la misma orca y solamente [[Svetlana]] pudo reconocer que la persona en la soga era ella misma.
+[[Svetlana]] y [[Nicolai]] se bajaron del carruaje a buscar a [[Sergay]]; en el camino vieron la misma orca y solamente [[Svetlana]] pudo reconocer que la persona en la soga era ella misma.
 
 (Se gano 1 punto de inspiracion porque lo actuo muy bien la perrilla)
 
