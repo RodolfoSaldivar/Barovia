@@ -4,4 +4,4 @@ Despues de varios intentos y varias arrojadas al piso, pudimos arrancarle la gem
 
 [[Nicolai]] obtiene una hacha anti hierbas y una lanza de vida.
 La hacha porque es el que mejor tiro tiene y la lanza por ser el que meo la estatua de [[Strahd Von Zarovich]].
-La lanza se la dio un nativo baroviano que quiere venganza, le dio su bendicion para usarla.
+La lanza se la dio un nativo baroviano que quiere venganza llamado [[Kazan]], le dio su bendicion para usarla.

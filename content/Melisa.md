@@ -1,0 +1,1 @@
+Maga poderosa amiga de [[Rictavio]], fue la que hizo el hechizo de mantener una cabeza viva.
