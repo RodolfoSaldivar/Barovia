@@ -10,6 +10,7 @@ Llega goliat y empieza el combate, [[Svetlana]] le mete sus buenos putazos al pr
 [[Svetlana]] no se deja vencer, y se para mientras se dirige al pueblo y habla sobre como se siente representada por ellos. La vuelven a madrear, se vuelve a levantar, una vez mas intenta llegar al corazon del pueblo y escucha frases como: "Pero no estamos tan mal ahora", "Nadie le pidio que hiciera esto por nosotros", "de verdad esta loca". Ella no pierde la esperanza y grita con su ultimo aliento: "Villaki... assemble"... nadie se movio, nadie la ayudo. En ese momento, algo dentro de ella termino de romperse. La capturan y se la llevan a casa de [[Fiona Washer]].
 
 Mientras pasaba todo esto, [[Gregory]] intentaba convencer o seducir a varios guardias con algo de vino, les hablaba de una manera muy suave e intrigante, de una manera en la que los debiles de mente y control caerian facilmenta.
+Tambien fue a conseguir materiales antivampiros como ajo, metal rayado, mini estacas, sangre hechada a perder; piensa hacer crepas con esos ingredientes.
 
 [[Sergay]] intenta knockear a los guardias por atras 1 por 1 pero lo cachan y se tuvo que hacer pasar por un vagabundo en busca de monedas, creo que hasta tuvo que comer tierra.
 
