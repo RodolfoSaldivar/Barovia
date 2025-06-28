@@ -41,3 +41,5 @@ Todos se quedan aterrados y sorprendidos mientras el dice: "No iba a permitir qu
 [[Strahd Von Zarovich]] desaparece y los 5 jovenes se van directo a la posada. [[Svetlana]] se va a su cuarto, se acuesta y comienza a llorar por todo lo que ha pasado, esta en un muy mal estado psicologico.
 
 [[Nicolai]] va con [[Kamila]], le dice que conocio a [[Carlos]] y rompe con ella. El no sabia que era un amante, es algo que detesta, ahora se siente sucio.
+
+[[Sergay]] le cuenta a los taberneros sobre lo sucedido y le dicen que ya se lo temian, [[Fiona Washer]] es un demonio.
