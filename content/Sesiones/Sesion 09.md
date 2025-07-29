@@ -1,16 +1,18 @@
 Nos topamos a [[David]] que nos dijo que unos druidas y 50 groots estaban ocupando [[The Wizard of Wines]].
 
-[[Gregory]] nos convencio de hacer un plan excelente de cavar 1 poso por 5 dias.
-Al llegar al 3er dia, los druidas terminaron de invocar a un [[Winter Splinter]] que de una pisada destruyo medio campamento y de un estornudo la otra mitad.
+[[Gregory]] nos convenció de hacer un plan excelente de cavar 1 pozo por 5 días.
+Al llegar al 3er día, los druidas terminaron de invocar a un [[Winter Splinter]] que de una pisada destruyó medio campamento y de un estornudo la otra mitad.
 
-[[David]] se encabrono, nos insulto, y todos nos fuimos a [[Villaki]].
+[[David]] se encabrono, nos insultó, y todos nos fuimos a [[Villaki]].
 
-[[Urwin]] tmbn se mega encabrono con nosotros y perdio la confianza en nosotros.
-Nos recomendo irnos de la ciudad porque el estaba muy molesto y porque [[Fiona Washer]] sabia lo que [[Svetlana]] hizo con la administracion politica pasada.
+[[Urwin]] tmbn se mega encabrono con nosotros y perdió la confianza en nosotros.
+Nos recomendó irnos de la ciudad porque él estaba muy molesto y porque [[Fiona Washer]] sabía lo que [[Svetlana]] hizo con la administración política pasada.
 
 [[Nicolai]] fue a despedirse de [[Kamila]] a su manera.
-[[Svetlana]] tmbn fue con [[Irena]] a contarle lo que habia pasado, y tras un momento muy emotivo y personal, las cosas se volvieron intimas y apasionadas.
+[[Svetlana]] también fue con [[Irena]] a contarle lo que había pasado, y tras un momento muy emotivo y personal, las cosas se volvieron íntimas y apasionadas.
 
-Unos gritos a la madrugada despertaron a todos y peliamos con varios [[Vampiro Endemoniado]] hasta que llego [[Strahd Von Zarovich]] a tumbarnos con varias bolas de fuego.
-Invito a [[Nicolai]] a ser un vampiro y [[Nicolai]] lo mando a la casa de su mama.
-[[Strahd Von Zarovich]] le dijo que era su primera opcion mientras le abrio la boca y lanzo una bola de fuego en la garganta, casi matandolo de 1 tiro.
+Unos gritos a la madrugada despertaron a todos y peleamos con varios [[Vampiro Endemoniado]] hasta que llegó [[Strahd Von Zarovich]] a tumbarnos con varias bolas de fuego.
+Invito a [[Nicolai]] a ser un vampiro y [[Nicolai]] lo mandó a la casa de su mamá.
+[[Strahd Von Zarovich]] le dijo que era su primera opción mientras le abrio la boca y lanzó una bola de fuego en la garganta, casi matándo lo de 1 tiro.
+
+

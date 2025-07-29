@@ -1,9 +1,9 @@
-[[Svetlana]] se quedo junto con [[Milo]] viendo arder la casa de [[Hendrick]] mientras amanecia.
-La multitud comenzo a llegar y ver el caos.
+[[Svetlana]] se quedó junto con [[Milo]] viendo arder la casa de [[Hendrick]] mientras amanecía.
+La multitud comenzó a llegar y ver el caos.
 [[Svetlana]] toma una tarima y empieza a dar un discurso sobre los vampiros, libertad, no dejarse engañar y fijarse en acciones, no promesas.
-Las masas la escucharon y nacio el slogan "Haremos las cosas bien".
+Las masas la escucharon y nació el slogan "Haremos las cosas bien".
 
-Hubo un bato que solo queria enardecer a las masas y se aventaba comentarios castrosos.
+Hubo un bato que solo quería enardecer a las masas y se aventaba comentarios castrosos.
 [[Svetlana]] le hace una señal a [[Denisse]] para que vaya y lo capture.
 
 Svetlana tortura a [[Ernesto]], nos dice que lo mando su jefa [[Fiona Washer]] al norte en la mansión washer house.
@@ -18,12 +18,13 @@ Levantan una bandera con el slogan "haremos las cosas bien" y el nombre de [[Sve
 
 [[Nicolai]] encuentra a [[Kamila]] escondida en su cama, la saca y la lleva a la posada.
 
-Toda la familia del [[Alcalde Baron Vargas]] esta muerta excepto el [[Victor Vallakovich]], el cual es el mago fuerte del atico.
+Toda la familia del [[Alcalde Baron Vargas]] está muerta excepto el [[Victor Vallakovich]], el cual es el mago fuerte del ático.
 
 [[Nicolai]] platica con [[Rictavio]] el de ropas coloridas, atranco la iglesia que ahora está infestada de zombies vampiro.
 
-Al amanecer, había carteles de [[Fiona Washer]] que se esta postulando, [[Nicolai]] la hizo de pedo y lo sacaron a patadas.
+Al amanecer, había carteles de [[Fiona Washer]] que se está postulando, [[Nicolai]] la hizo de pedo y lo sacaron a patadas.
 
-Afuera de [[Villaki]] estaba [[Milo]] crusificado.
+Afuera de [[Villaki]] estaba[Milo]] crucificado.
 
-LLegamos a [[The Wizard of Wines]] y habia sobras humanoides alrededor.
+Llegamos a [[The Wizard of Wines]] y había sombras humanoides alrededor.
+
