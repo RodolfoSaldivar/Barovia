@@ -1,17 +1,19 @@
-Conicimos a [[Irene]] y su hermano.
+Conocimos a [[Irena]] y su hermano.
 
-[[Svetlana]] les conto sobre [[Anya]].
+[[Svetlana]] les contó sobre [[Anya]].
 
-La [[Pastelera]] entrego un pastel con el nombre de [[Boris]] y [[Sofya]], Svetlana solo le conto de ellos a [[Sergay]].
+La [[Pastelera]] entregó un pastel con el nombre de [[Boris]] y [[Sofya]], Svetlana solo le contó de ellos a [[Sergay]].
 
-[[Nicolai]] comio una buena parte del pastel y [[Sergay]] probo un poquito.
+[[Nicolai]] comió una buena parte del pastel y [[Sergay]] probó un poquito.
 
 [[Estaninivil]] se encabrono con [[Nicolai]] por haber consumido el pastel.
 
-Paso lo de la [[Pastelera]] y que Svetlana trato de salvar a la ninia.
+Pasó lo de la [[Pastelera]] y que Svetlana trató de salvar a la niña.
 
-Nicole intento deshacerse del pastel pero reaparecio en su mochila.
+[[Nicolai]] intentó deshacerse del pastel pero reapareció en su mochila.
 
-Dejamos a un esposo que vendio a su hija y mato a su esposa por pasteles.
+Dejamos a un esposo que vendió a su hija y mató a su esposa por los pasteles.
 
 [[Strahd Von Zarovich]] ya vino por nosotros.
+
+

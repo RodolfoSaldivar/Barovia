@@ -1,6 +1,6 @@
 [[Yelena]] nos dice que solo un beso de amor verdadero puede curar a [[Gregory]].
 
-[[Denisse]] se va por unas putillas, [[Sergay]] fue por una anciana con alzheimer y [[Nicolai]] fue por [[Irene]].
+[[Denisse]] se va por unas putillas, [[Sergay]] fue por una anciana con alzheimer y [[Nicolai]] fue por [[Irena]].
 
 Todas lo besaron pero nada funciono; hasta que [[Sergay]] engania a la anciana y le hace creer que [[Gregory]] es su esposo Raul y si funciona.
 

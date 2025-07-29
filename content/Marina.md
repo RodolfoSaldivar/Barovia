@@ -1,4 +1,4 @@
-Reencarnacion de [[Tatiana]], fue la reencarnacion hace 300 anios, ahora reencarnada en [[Irene]].
+Reencarnacion de [[Tatiana]], fue la reencarnacion hace 300 anios, ahora reencarnada en [[Irena]].
 
 Solo sigue viviendo en cuerpo, su alma ya no esta en ella.
 

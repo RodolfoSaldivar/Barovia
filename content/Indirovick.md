@@ -1,1 +1,1 @@
-Linaje de [[Irene]]
+Linaje de [[Irena]]

@@ -9,7 +9,7 @@ Al llegar al 3er dia, los druidas terminaron de invocar a un [[Winter Splinter]]
 Nos recomendo irnos de la ciudad porque el estaba muy molesto y porque [[Fiona Washer]] sabia lo que [[Svetlana]] hizo con la administracion politica pasada.
 
 [[Nicolai]] fue a despedirse de [[Kamila]] a su manera.
-[[Svetlana]] tmbn fue con [[Irene]] a contarle lo que habia pasado, y tras un momento muy emotivo y personal, las cosas se volvieron intimas y apasionadas.
+[[Svetlana]] tmbn fue con [[Irena]] a contarle lo que habia pasado, y tras un momento muy emotivo y personal, las cosas se volvieron intimas y apasionadas.
 
 Unos gritos a la madrugada despertaron a todos y peliamos con varios [[Vampiro Endemoniado]] hasta que llego [[Strahd Von Zarovich]] a tumbarnos con varias bolas de fuego.
 Invito a [[Nicolai]] a ser un vampiro y [[Nicolai]] lo mando a la casa de su mama.

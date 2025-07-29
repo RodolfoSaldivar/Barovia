@@ -10,7 +10,7 @@ Estaban quemando los cuerpos en un estacionamiento grande, era un terreno de inv
 [[Gundren Rockfinder]] nos cuenta que eran 3 primos, pero que uno ya fallecio.
 [[Svetlana]] continua platicando con [[Gundren Rockfinder]] y el [[Denisse]] se aburre y le grita que deje de ligar, haciendo que pare y no vuelva a participar.
 
-Le dijimos a [[Irene]] que se fuera con [[Rictavio]], que el la mantendria a salvo.
+Le dijimos a [[Irena]] que se fuera con [[Rictavio]], que el la mantendria a salvo.
 
 Para conseguir informacion, fuimos a la casa de [[Fiona Washer]] la cual tiene un muy mal servicio de vigilancia.
 [[Nicolai]] dificilmente despues de una caida, subio al techo de la casa por la parte trasera.
