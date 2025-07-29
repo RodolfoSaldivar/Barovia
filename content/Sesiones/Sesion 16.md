@@ -1,1 +1,1 @@
-La bruja del bosque nos humillo, literalmente trono los dedos y terminamos bajo tierra; [[Gregory]] que siempre esta fuera del mapa nos desenterro
+La bruja del bosque nos humilló, literalmente trono los dedos y terminamos bajo tierra; [[Gregory]] que siempre está fuera del mapa nos desenterró

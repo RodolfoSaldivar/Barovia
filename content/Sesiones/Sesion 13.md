@@ -1,6 +1,6 @@
 Saliendo con la gata vestida de hombre ebrio.
 
-[[Svetlana]] se vistio de [[Vistra]] para cruzar a los guardias.
+[[Svetlana]] se vistió de [[Vistra]] para cruzar a los guardias.
 
 Cortamos camino pasando por el bosque perdido.
 
