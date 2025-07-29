@@ -2,15 +2,15 @@
 
 [[Nicolai]] y [[Sergay]] son percibidos por alguna entidad por lo que no pueden descanzar y ven cosas raras al tratar de dormir, parece ser una maldicion.
 
-Se hizo un plan para que [[Denisse]] y [[Svetlana]] entraran a la casa de la [[Pastelera]] cuando ella saliera de noche; y en cualquier peligro, [[Denisse]] lanzaria su hechizo que haria iluminar la torre y esa era la senial de ayuda.
+Se hizo un plan para que [[Dennis]] y [[Svetlana]] entraran a la casa de la [[Pastelera]] cuando ella saliera de noche; y en cualquier peligro, [[Dennis]] lanzaria su hechizo que haria iluminar la torre y esa era la senial de ayuda.
 
-[[Denisse]] y [[Svetlana]] tiraron muy bien sus dados de stealth y llegaron hasta el ultimo piso de la torre donde 2 mini pasteleras estaban torturando y otras cosas feas a 3 ninios.
+[[Dennis]] y [[Svetlana]] tiraron muy bien sus dados de stealth y llegaron hasta el ultimo piso de la torre donde 2 mini pasteleras estaban torturando y otras cosas feas a 3 ninios.
 
 [[Svetlana]] le responde el mensaje telepatico a [[Gregory]] diciendo "tenemos 2 mini pasteleras enfrente"; por alguna razon [[Gregory]] les comunica a los demas "ya valio vrg". Por lo cual ignoran totalmente el plan y se van hacia la torre.
 
-Justo cuando [[Svetlana]] y [[Denisse]] iban a atacar por sorpresa a las mini pasteleras, [[Nicolai]] y [[Sergay]] llegan a la torre y las mini pasteleras, que les habian puesto una maldicion anteriormente, desaparecen del ultimo piso y se les suben a [[Nicolai]] y [[Sergay]].
+Justo cuando [[Svetlana]] y [[Dennis]] iban a atacar por sorpresa a las mini pasteleras, [[Nicolai]] y [[Sergay]] llegan a la torre y las mini pasteleras, que les habian puesto una maldicion anteriormente, desaparecen del ultimo piso y se les suben a [[Nicolai]] y [[Sergay]].
 
-[[Svetlana]] y [[Denisse]] atoran el molino de la torre con ropas y sabanas con fluidos curiosos, despues la prenden en fuego y se comienza a incendiar la torre. Liberan a los 3 ninios que estaban encerrados y bajan.
+[[Svetlana]] y [[Dennis]] atoran el molino de la torre con ropas y sabanas con fluidos curiosos, despues la prenden en fuego y se comienza a incendiar la torre. Liberan a los 3 ninios que estaban encerrados y bajan.
 
 Los ninios estan vivos pero no responden, como si estubieran en coma.
 
@@ -26,11 +26,11 @@ Una fuerte rafaga de viento azota la puerta y al mismo tiempo [[Svetlana]] sient
 
 La [[Pastelera]] truena los dedos e invoca a las 2 mini pasteleras. Ellas knockean a [[Nicolai]] y a [[Sergay]] y aparte les roban a los ninios y se los llevan a otro plano.
 
-[[Svetlana]] y [[Denisse]] se miran y saben que no podran. [[Svetlana]] que tenia al bebe en sus brazos y no podia pelear comodamente tambien ve como [[Nicolai]] y [[Sergay]] estan inconcientes y con tristeza, rabia e impotencia le ofrece a la [[Pastelera]] salvar su patrimonio y apagar el incendio de arriba.
+[[Svetlana]] y [[Dennis]] se miran y saben que no podran. [[Svetlana]] que tenia al bebe en sus brazos y no podia pelear comodamente tambien ve como [[Nicolai]] y [[Sergay]] estan inconcientes y con tristeza, rabia e impotencia le ofrece a la [[Pastelera]] salvar su patrimonio y apagar el incendio de arriba.
 
 La [[Pastelera]] se acerca a ella, comienza a acariciar la cabeza del bebe y dice "Una vida por otra vida" mientras le aplasta la cabeza con una sola mano y desaparece, dejando el cuerpo sin vida en los brazos de [[Svetlana]].
 
-Despues de unos segundos de tener la mirada perdida, los ojos nublados y el cuerpo temblando, [[Svetlana]] reacciona y con ayuda de [[Denisse]] paran a sus companieros y se los llevan a donde estaba [[Gregory]].
+Despues de unos segundos de tener la mirada perdida, los ojos nublados y el cuerpo temblando, [[Svetlana]] reacciona y con ayuda de [[Dennis]] paran a sus companieros y se los llevan a donde estaba [[Gregory]].
 
 Casi al momento del destrozamiento, [[Svetlana]] recuerda las palabra de la [[Pastelera]], por lo que usa la sangre que tiene en sus brazos para embarrar los hombros de los chicos con la maldicion. Funciona, ya no tienen maldicion.
 

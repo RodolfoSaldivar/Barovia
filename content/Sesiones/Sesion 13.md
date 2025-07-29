@@ -6,4 +6,4 @@ Cortamos camino pasando por el bosque perdido.
 
 Encontramos frost giant potion.
 
-Vencimos 13 zombies que le quisieron comer el culo a [[Denisse]]
+Vencimos 13 zombies que le quisieron comer el culo a [[Dennis]]

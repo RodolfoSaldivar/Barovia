@@ -1,6 +1,6 @@
 Una princesa reclutó a 5 personas para poder hacerse cargo de unos robos que una persona cercana a ella le reportó.
 
-Las 5 personas son [[Svetlana]], [[Denisse]], [[Sergay]], [[Gregory]] y [[Nicolai]].
+Las 5 personas son [[Svetlana]], [[Dennis]], [[Sergay]], [[Gregory]] y [[Nicolai]].
 
 Al llegar a las coordenadas se toparon unos Vistranis que les dieron el [[Contexto Inicial]]
 

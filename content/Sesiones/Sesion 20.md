@@ -1,6 +1,6 @@
-[[Denisse]] y [[Nicolai]] continuan buscando a [[Svetlana]] dentro de la casa y de plano no la encuentran.
+[[Dennis]] y [[Nicolai]] continuan buscando a [[Svetlana]] dentro de la casa y de plano no la encuentran.
 El equipo se reune afuera de la casa escondidos, platican sobre diferentes planes pero no llegan a nada y deciden actuar haciendo distracciones en separado.
-[[Denisse]] le entrega la mano del esposo a [[Sergay]], se vuelve a disfrazar de [[Ponchito]] y vuelve con [[Nicolai]] que esta disfrazado de guardia adentro de la casa.
+[[Dennis]] le entrega la mano del esposo a [[Sergay]], se vuelve a disfrazar de [[Ponchito]] y vuelve con [[Nicolai]] que esta disfrazado de guardia adentro de la casa.
 
 [[Gregory]] que normalmente tiene mala suerte, fue llamado a la junta semanal de [[Fiona Washer]] junto con los demas generales; esto paso porque se robo una tunica de general y lo confundieron porque traia la cara tapada.
 
@@ -20,9 +20,9 @@ En eso los vampiros se van por la chimenea asi como en harry potter y el [[Grego
 
 [[Svetlana]] comienza a tener ilusiones de ella misma que la torturan psicologicamente al recordarle todos los fallos que ha hecho en su vida. [[Svetlana]] esta tan cansada y debil que ya no distingue si es real o no, solo esta sufriendo fisica y mentalmente.
 
-Despues de que los vampiros se fueron, [[Denisse]] y [[Nicolai]] se toparon al guardia [[Carlos]]. Esta muy deprimido y solo, les cuenta que se entero que su esposa lo engania y justo despues de perder a su hijo.
+Despues de que los vampiros se fueron, [[Dennis]] y [[Nicolai]] se toparon al guardia [[Carlos]]. Esta muy deprimido y solo, les cuenta que se entero que su esposa lo engania y justo despues de perder a su hijo.
 
-[[Denisse]] conecta los puntos y se da cuenta que [[Carlos]] es el esposo de [[Kamila]], que [[Nicolai]] es el amante y que sin darse cuenta lo esta consolando. [[Carlos]] les ofrece sidra hecha por el mismo y despues de varias bebidas, terminan pedos los 3.
+[[Dennis]] conecta los puntos y se da cuenta que [[Carlos]] es el esposo de [[Kamila]], que [[Nicolai]] es el amante y que sin darse cuenta lo esta consolando. [[Carlos]] les ofrece sidra hecha por el mismo y despues de varias bebidas, terminan pedos los 3.
 
 La conversacion siguio y se destapa que [[Nicolai]] es el amante, [[Carlos]] se le avienta encima y empiezan a pelear. [[Nicolai]] gana y lo deja inconciente en el piso.
 

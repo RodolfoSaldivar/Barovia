@@ -4,7 +4,7 @@ La multitud comenzó a llegar y ver el caos.
 Las masas la escucharon y nació el slogan "Haremos las cosas bien".
 
 Hubo un bato que solo quería enardecer a las masas y se aventaba comentarios castrosos.
-[[Svetlana]] le hace una señal a [[Denisse]] para que vaya y lo capture.
+[[Svetlana]] le hace una señal a [[Dennis]] para que vaya y lo capture.
 
 Svetlana tortura a [[Ernesto]], nos dice que lo mando su jefa [[Fiona Washer]] al norte en la mansión washer house.
 Segun [[Ernesto]], está tan loca como [[Svetlana]]; prefiere morir a qué le digan que dio información de ella
