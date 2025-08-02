@@ -18,7 +18,7 @@ En eso los vampiros se van por la chimenea así como en harry potter y el [[Greg
 
 [[Fiona Washer]] va con [[Svetlana]] la cual está toda fregada, le dice que sus amigos se andan con mmds y que va a hacer lo mismo. Toma la mano de [[Svetlana]] y le arranca el meñique con la boca; [[Svetlana]] ni siquiera puede gritar por el cansancio y la boca cosida.
 
-[[Svetlana]] comienza a tener ilusiones de ella misma que la torturan psicológicamente al recordarle todos los fallos que ha hecho en su vida. [[Svetlana]] está tan cansada y débil que ya no distingue si es real o no, solo está sufriendo física y mentalmente.
+[[Svetlana]] comienza a tener ilusiones de ella misma que la torturan psicológicamente al recordarle todos los fallos que ha hecho en su vida. [[Svetlana]] está tan cansada y débil que ya no distingue si es real o no, solo está sufriendo física y mentalmente. Es la primera vez que [[Anastasia Lena]] se muestra ante ella.
 
 Después de que los vampiros se fueron, [[Dennis]] y [[Nicolai]] se toparon al guardia [[Carlos]]. Está muy deprimido y solo, les cuenta que se enteró que su esposa lo engaña y justo después de perder a su hijo.
 
@@ -36,7 +36,7 @@ Ya apunto de rendirse, un golpe final por fin abre la puerta y se ve que una man
 
 Oh sorpresa, era el mismísimo [[Strahd Von Zarovich]] que les abrió y ayudó a salir.
 
-Todos se quedan aterrados y sorprendidos mientras él dice: "No iba a permitir que mataran a mi guerrera, aun la necesito". En eso, toca la cara de [[Svetlana]] y cura todas sus heridas leves y cansancio.
+Todos se quedan aterrados y sorprendidos mientras él dice: "No iba a permitir que mataran a mi guerrera, aun la necesito". En eso, toca la cara de [[Svetlana]] y cura todas sus heridas leves y cansancio. Y finalmente los invita a su castillo.
 
 [[Strahd Von Zarovich]] desaparece y los 5 jóvenes se van directo a la posada. [[Svetlana]] se va a su cuarto, se acuesta y comienza a llorar por todo lo que ha pasado, está en un muy mal estado psicológico.
 
