@@ -1,0 +1,41 @@
+El grupo decide reunirse con [[Rictavio]] en la torre y antes pasar de pasadita a [[Villaki]] a notificar a [[Gundren Rockfinder]] de los hechos.
+
+[[Villaki]] se encuentra totalmente resguardado, la seguridad es extrema. El grupo se dirigió a la entrada más pequeña del pueblo, donde había 3 guardias y unas antorchas haciendo luz.
+
+[[Gregory]] le manda un mensaje a un guardia atrayéndolo hacia donde estaban; ya estando cerca [[Nicolai]] le da una estocada al corazón, matándolo de 1 tiro. Al mismo tiempo [[Svetlana]] iba gateando militarmente hacia las orillas de los guardias con mucho sigilo.
+
+[[Gregory]] toma la decisión de mandarles mensajes a los otros guardias diciéndo que su compañero está muerto, esto hace encabronar a [[Nicolai]] y le mienta la madre. Por lo asustados, la guardia mujer saca un cuerno y estaba a punto de soplarlo hasta que [[Svetlana]] que ya estaba cerca, se lo tira de un manazo y toma a la chica como rehén. El último guardia que quedaba se queda congelado del miedo y confusión, eso le dio tiempo a [[Dennis]] de llegar con él y tomarlo por el cuello. [[Svetlana]] les empieza a decir a sus compañeros que no quiere más muertes en sus manos, en eso voltea y [[Gregory]] ya tenía su cuchillo atravesado en la chica que [[Svetlana]] sostenía, voltea a ver a [[Dennis]] y ve como con su daga le corta el cuello al otro guardia.
+
+Se visten de guardias y logran entrar a [[Villaki]]. Los guardias de dentro usan otro uniforme, usan una máscara negra puntiaguda y triangular.
+
+El pueblo está hecho un desastre, hay carteles de niños perdidos por todas partes, las calles vacías, las casas grises, nadie por ningún lado, solo guardias patrullando.
+
+Llegan a la taberna esperando encontrarse con el entretenimiento nocturno y nada. Puertas tumbadas, ventanas rotas, sillas y mesas golpeadas y destruidas. [[Nicolai]] se va a revisar las habitaciones y los demás las afueras de la taberna.
+
+[[Svetlana]] logra ver una especie de sombra flotando en el árbol de al lado, mientras se van acercando, se dan cuenta que es una mujer colgada del cuello. Llegan corriendo y es la esposa de [[Urwin]]. [[Nicolai]] abre una de las habitaciones y encuentra a un [[Urwin]] alcoholizado, deprimido, con barba descuidada y mirada agotada.
+
+[[Svetlana]] examina el cuerpo y determina que la esposa lleva muerta unas horas, tal vez días; y más importante aún, que está embarazada de 9 meses! [[Urwin]] reconoce a [[Nicolai]] y le empieza a gritar que todo es su culpa, que el confiaba en ellos, que desgraciaron al pueblo de una manera irreparable; recarga su escopeta y se apunta a la quijada mientras dice que desde que se llevaron a sus hijos, tanto él como su esposa murieron por dentro.
+
+En un esfuerzo combinado, [[Gregory]] usa su hechizo de fuego para a la vez desinfectar la daga de [[Dennis]] y cauterizar el cuerpo de la esposa, al mismo tiempo que [[Dennis]] le hacia una cesarea cuidadosamente, mientras que [[Svetlana]] iba sacando al bebe. Todo esto pasaba al mismo tiempo con un grado de cuidado y concentración absoluta.
+
+[[Nicolai]] le dice a [[Urwin]] que aún hay cosas por las cuales pelear, el le contesta que ya no le queda nada; y en eso [[Svetlana]] grita que la bebe está a salvo. [[Urwin]] se transforma en cuervo y baja rápidamente a donde están los demás. [[Svetlana]] le entrega a la bebe. [[Dennis]] nota que la mirada destruida de [[Urwin]] cambia un poco y dice: "Esa bebe representa lo que todos necesitamos; y por eso, su nombre será... Esperanza".
+
+Muchos cuervos llegan y se paran en la taberna, [[Nicolai]] llega donde están todos, [[Urwin]] mira a todos los miembros del grupo con desprecio, luego mira a su hija, se transforma en cuervo y junto con los otros cuervos se van volando.
+
+Ahora el grupo se dirige hacia la casa de [[Gundren Rockfinder]] y en el camino notan que la luna tiene una pequeña mancha roja la cual les causa pánico al recordar que [[Fiona Washer]] estaba preparando un ritual y que ni siquiera saben la fecha actual.
+
+Todos agitados y preocupados entran a casa de [[Gundren Rockfinder]] y son atacados por dardos tranquilizantes de todas las paredes, todos caen dormidos.
+
+[[Svetlana]] se medio despierta al escuchar los gritos de dolor de [[Nicolai]] al cual [[Gundren Rockfinder]] le metió una jeringa en la uretra para tomar una muestra de sangre. Todos los miembros estaban atados de cabeza colgando del techo. Siguió con [[Gregory]] que la introdujo en el ojo por donde salen lagañas, luego con [[Dennis]] entre la uña y el dedo; finalmente con [[Svetlana]] que fue en el coxis. Todos vuelven a dormir después de eso.
+
+Se despiertan ya sentados en sillas y desamarrados. [[Gundren Rockfinder]] les dice que tenía que asegurarse de que estuvieran en todos sus sentidos, que sabía que durante los últimos 5 meses habían estado bajo el efecto de la [[Pastelera]]. Les hizo una prueba de sangre que surge del dolor. También les dice que él y su esposa están a salvo y que el cuerpo del esposo sigue en el sótano en un estado presentable.
+
+[[Gundren Rockfinder]] les comenta que la mancha roja es debido al ritual que [[Fiona Washer]] está haciendo, el cual se nutre de tristeza pura. Que ha estado aprovechándose de las acciones del grupo para usar la tristeza del pueblo. [[Svetlana]] se mega encabrona y exclama: "OTRA VEZ!!! Pinche vieja, le estamos haciendo el trabajo de nuevo!!". Invadida por la impotencia e ira, [[Svetlana]] les pide a sus compañeros que la ayuden a acabar con [[Fiona Washer]] de una vez por todas, que no puede dejar al pueblo así, como ganado; ellos rechazan la idea, le empiezan a mentar la madre y a ofender.
+
+[[Gundren Rockfinder]] dice: "Si van a hacer algo, tiene que ser ya". Y curiosamente, como si les hablara un blanquito popular, todos cambian de opinión y aceptan la idea de [[Svetlana]]. [[Gundren Rockfinder]] reconoce que el cuerno que traen es para llamar a los guardias de la ciudad, se ofrece a ser carnada y tocar el cuerno al otro polo de la ciudad para que ellos vayan directo con [[Fiona Washer]]. [[Svetlana]] no se siente agusto de que [[Gundren Rockfinder]] se arriesgue de esa manera y él le responde: "Chaparrita, me puedo cuidar solo, estaré bien". [[Svetlana]] accede, toma el cuerpo del esposo y se van.
+
+El plan funciona y llegan a la casa de [[Fiona Washer]] la cual tenía la puerta abierta. Todos entran y la puerta se azota detrás de ellos. La casa empieza a temblar y el ambiente se vuelve extremadamente tenso y turbio. En las ventanas se aprecia que la casa está completamente en otro tipo de dimensión, como en un tipo de estomago. Suben las escaleras, [[Nicolai]] se pone frente a la puerta del cuarto de [[Fiona Washer]], [[Svetlana]] está al lado de él a unos 10 pies cargando al esposo, [[Gregory]] intenta salirse del mapa y una fuerza mayor le niega la oportunidad, [[Dennis]] estaba al lado de las escaleras y [[Sergay]] salió de su pokebola dando a conocer que lo necesitan.
+
+Cuando [[Nicolai]] iba a tomar la perilla de la puerta, esta se abre sola y una voz reconocible por [[Svetlana]] dice: "Tengo que darles las gracias, especialmente a ti [[Svetlana]], le has dado al pueblo razones para que yo mueva mi plan... esto es tan fácil", [[Svetlana]] empieza a agitarse y se pone quijada de enojada. [[Nicolai]] le dice que esas serán las últimas palabras que dirá. En eso [[Fiona Washer]] le pregunta: "¿Estás seguro?" y su cuerpo empieza a hacer ruidos de huesos quebrandose mientras el cuerpo empieza a distorcionarse y cambiar de color. [[Nicolai]] presencia la transformación de una humana a un demonio de 3 metros con alas, cuernos, cola, y todo lo macabro que puede tener. [[Svetlana]] tan solo de ver la expresión de asombro y terror de [[Nicolai]], se culea y empieza a temblar.
+
+[[Fiona Washer]] pregunta con una voz totalmente diferente y macabra: "Querían venganza? Pues aquí estaba...mos" y en eso [[Svetlana]] ve como de las puertas detrás de [[Gregory]], [[Dennis]] y [[Sergay]], salen guerreros que los jalan hacia cuartos separados.
