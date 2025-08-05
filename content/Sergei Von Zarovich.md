@@ -1,0 +1,1 @@
+Hermano de [[Strahd Von Zarovich]], prometido de [[Tatiana]] que fue asesinado por su hermano.
