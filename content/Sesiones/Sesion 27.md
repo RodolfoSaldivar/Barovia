@@ -13,16 +13,16 @@ La voz omnipotente cagoteó a [[Gregory]] porque de plano es un marica cuando se
 Cada personaje vivió así su propia batalla:
 
 [[Svetlana]]:
-![[Pasted image 20250820110455.png]]
+![[legolas.png]]
 
 [[Nicolai]]:
-![[Pasted image 20250820110725.png]]
+![[randy.png]]
 
 [[Dennis]]:
-![[Pasted image 20250820110805.png]]
+![[chester.png]]
 
 [[Gregory]]:
-![[Pasted image 20250820110931.png]]
+![[juanga.png]]
 
 
 La batalla fue feroz. Derrotaron al grupo enemigo, aunque dos lograron escapar, perdiéndose en los oscuros pasillos del templo.
