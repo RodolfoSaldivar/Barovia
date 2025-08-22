@@ -12,13 +12,15 @@
     "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
-    "start": "npx quartz build --serve",
+    "start": "npm run dohome && npx quartz build --serve",
+    "build": "npm run dohome && npx quartz build",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "dohome": "node scripts/dohome.js"
   },
   "engines": {
     "npm": ">=9.3.1",

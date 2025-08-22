@@ -27,6 +27,8 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Do Home
+        run: npm run dohome
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
