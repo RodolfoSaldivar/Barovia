@@ -1,0 +1,9 @@
+Los aventureros continuaron su avance por el corazón del templo ámbar. En un amplio pasillo custodiado por puertas cerradas, tres cráneos llameantes surgieron de la oscuridad y desataron su furia. La batalla fue prolongada y brutal. [[Nicolai]] cayó varias veces, y en cada desmayo fue arrastrado a visiones del propio [[Sentinel]]. [[Sentinel]], por su parte, revivió aquel día trágico: el momento en que [[Strahd Von Zarovich]], consumido por los celos, lo asesinó… y [[Tatiana]] eligió lanzarse al vacío antes que pertenecer al tirano.
+
+Tras la victoria, descansaron brevemente. [[Dennis]] encontró un báculo de hielo con la inscripción “Jakaion” y lo tomó en silencio. Luego, descendieron por una escalera de piedra que los condujo a una cámara imponente, con múltiples puertas de ámbar, muchas de ellas aún selladas.
+
+Mientras exploraban, combatieron con un ente invisible que no ofreció demasiada resistencia. Pero fue al entrar en la primera sala con puertas abiertas que algo extraño sucedió: cuatro nothic se encontraban reunidos en el centro, inmóviles. [[Nicolai]] cruzó miradas con una de las criaturas y fue invadido por visiones desconcertantes, entre ellas una posible relación entre [[Dennis]] y [[Sergay]].
+
+[[Gregory]] entró después… y los nothic huyeron aterrados al verlo, desvaneciéndose entre las grietas como si temieran algo que aún no ha sido revelado.
+
+Intrigados, el grupo continuó su búsqueda. En una bóveda secundaria encontraron dos sarcófagos. Al tocarlos, [[Dennis]] y [[Nicolai]] fueron arrastrados a visiones de antiguos conflictos: magos enfrentándose en un duelo ancestral dentro de este mismo templo, el eco de una guerra arcana que aún vibra en las piedras del lugar.
