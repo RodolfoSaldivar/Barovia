@@ -1,0 +1,1 @@
+Murciélago gigante, guardián del templo el ámbar.

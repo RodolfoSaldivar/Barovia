@@ -1,0 +1,21 @@
+La oscuridad del Templo de Ámbar seguía revelando sus secretos. En un corredor oculto, los aventureros encontraron a tres brujas discutiendo entre susurros enloquecidos y lanzando palabras al azar hacia una puerta de ámbar sellada, como si intentaran desbloquearla con magia caótica. [[Dennis]], con astucia y encanto, se lanzó hacia ellas entonando una melodía seductora. Su canto logró distraerlas… lo suficiente para que [[Svetlana]] se deslizara como sombra. Su plan era noquear a una de ellas, pero se le fue la mano y terminó clavando su daga en la columna de una de ellas, matándola al instante. [[Svetlana]] se quedó congelada porque esa no era su intención, de plano no puede tener ni un momento de paz y tranquilidad.
+
+Las dos brujas restantes, entre llanto y furia, contraatacaron. [[Nicolai]] enfrentó a una mientras la otra lanzó un hechizo sobre [[Svetlana]], envolviéndola en un trance donde [[Svetlana]] veía hermosa y confiable a la bruja. La pelea terminó con solo una bruja con vida, quien, al rendirse, les confesó entre sollozos que ella y sus hermanas llevaban días intentando adivinar una “contraseña” para abrir la puerta sellada. No conocían la clave, pero creían que existía una, basada en los balbuceos de un loco que tiempo atrás merodeaba por el templo.
+
+En una cámara contigua, el grupo encontró una colosal figura humanoide esculpida en piedra: una estructura gigante, inmóvil, imposible de mover.
+
+Mientras todo esto pasaba, [[Svetlana]] seguía enamorada de la bruja que la hechizó. [[Svetlana]] veía a la bruja como adolescente enamorada, ellas se coqueteaban y reían pícaramente. Todos los demás estaban vomitando del asco porque la bruja estaba bien jodida, solo que [[Svetlana]] cayó en el hechizo y no creía que la bruja era fea.
+
+ Continuaron su camino hasta llegar al centro mismo del templo, allí los esperaba [[Neferon]], un murciélago monstruoso de poder abrumador. Irritado por la presencia de intrusos, se preparaba para expulsarlos o algo peor. El bato era bien grosero y andaba gritando majadería y media al grupo.
+
+La batalla comienza y [[Svetlana]] se da cuenta de que cuando [[Neferon]] recibe daño punzante, este se regenera. Hacen un golpe combinado [[Svetlana]] y la bruja jodida que hace que [[Neferon]] se encabrone y mate a la bruja de un trancazo. [[Svetlana]] solo ve como su enamorada cae en sus brazos y con un último suspiro, la bruja le dice que la ama y que no la olvide. [[Svetlana]] sintió que su corazón se desgarraba, por fin algo bueno le pasa y no le dura ni una hora. Cuando la bruja muere, el hechizo termina y [[Svetlana]] también vomita al darse cuenta lo ultra jodida que estaba la bruja. Después de verla ya no le dolió el corazón porque dedujo que la embrujo.
+
+En media pelea, mientras [[Neferon]] anda ofendiendo, gritando y molestando a todos, [[Svetlana]] se le acerca e intenta agradecerle por sacarla del hechizo, a lo cual [[Neferon]] le grita que se largue. [[Svetlana]] se empieza a calentar un poco, pero mantiene la cordura para intentar hablar con él. [[Neferon]] la sigue molestando hasta que se avienta un "Una mujer tan pedorra como tú ni aguanta un golpe", comentario que desencadeno la ira de [[Svetlana]].
+
+Los 2 se empezaron a pelear a palabras hasta que [[Svetlana]] le ofrece resistir su hechizo más fuerte a cambio que se calle el hocico y los deje en paz. [[Neferon]] se carcajea y duda de ella. [[Svetlana]] le estira la mano para cerrar el trato, lo cual le hizo saber a [[Neferon]] que era en serio y él acepta y estrechan la mano.
+
+En un silencio denso, mientras seguían apretando la mano del trato, [[Neferon]] desató su conjuro necrótico nivel 7. El aire se estremeció, era visible como la necrosis viajaba por las venas de [[Svetlana]], se le puso la piel china, los ojos rojos, respiración agitada, cuerpo sudando, piernas temblando... pero lo resistió, terminando en 8 puntos de vida.
+
+Fiel a su palabra, [[Neferon]] les concedió libertad para permanecer en el templo el tiempo que necesitaran y se marcha diciéndole a [[Svetlana]]: "Eres fuerte, niña, te ganaste mi respeto".
+
+Esa noche descansaron. Pero con el alba… Sergei ya no estaba.
