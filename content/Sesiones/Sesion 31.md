@@ -1,4 +1,4 @@
-Bato quemado que tiene miedo es el pupilo del wey de la vara de hielo.
+[[El bato quemado]] que tiene miedo es el pupilo del wey de la vara de hielo.
 Quería le regresaran el bastón o que le dieran el pomo y les regala el bastón si derrotan al golem.
 [[Dennis]] y [[Nicolai]] no querían darle nada y lo iban a madrear; [[Svetlana]] tranquilizo el ambiente con el diálogo efectivo.
 [[Nicolai]] acepta darle el pomo momentáneamente.
