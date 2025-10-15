@@ -1,6 +1,6 @@
 Empinamos al golem de ámbar gracias a que [[Dennis]] congelo el piso y el golem hizo un split y se tronó los golemsitos.
 
-Looteamos todas las riquezas que el golem cuidaba y cada quien anoto lo que le toco... espero.
+Looteamos todas las riquezas que el golem cuidaba y cada quien anoto lo que le tocó... espero.
 
 Le dimos a [[El bato quemado]] una parte de los tesoros y nos despedimos de él; justo antes de que partiéramos, [[El bato quemado]] le pidió un momento a [[Svetlana]], le agradeció por ser la única persona en tratarlo como un humano normal y verlo a los ojos.
 Como muestra de su gratitud, le dio el amuleto del maestro.
