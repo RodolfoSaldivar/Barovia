@@ -6,6 +6,6 @@ Fuimos a la torre donde estaba [[Rictavio]] e [[Irena]], [[Gregory]] resolvió e
 
 Hubo un pequeño roce emocional entre [[Irena]] y [[Svetlana]] debido a que [[Svetlana]] se siente cargada emocionalmente por los eventos de estos días; al final lo hablan y lesbianean. Entradas en lo atrevido, abren un cofre de [[Rictavio]] que tenía una cabeza bien preservada dentro. Le abren los ojos y sorpresa que la cabeza habla.
 
-Todos nos vamos a [[The Wizard of Wines]] para recoger los barriles y dinero, en el camino [[Svetlana]] le confiesa a [[Rictavio]] que abrió su cofre; el le dice que es una cabeza de vistrani, le quiso robar y le mocho la chompa; [[Melisa]], una camarada de el, fue la que lanzó el conjuro para mantener la cabeza viva.
+Todos nos vamos a [[The Wizard of Wines]] para recoger los barriles y dinero, en el camino [[Svetlana]] le confiesa a [[Rictavio]] que abrió su cofre; el le dice que es una cabeza de vistrani, le quiso robar y le mocho la chompa; [[Ezmeralda]], una camarada de el, fue la que lanzó el conjuro para mantener la cabeza viva.
 
 Llegan a [[Villaki]], platican con [[Urwin]] y [[David]], los actualizan con los tesoros encontrados y [[Svetlana]] se prepara para dar otro golpe de estado al ver el triste, pobre y desolado ambiente del pueblo.
